@@ -1,0 +1,14 @@
+.nav-bar{
+    background-color: #242424;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 100%;
+    padding: 20px 100px;
+    
+}
+
+nav div a{
+    margin-left: 20px;
+    color: white;
+}
